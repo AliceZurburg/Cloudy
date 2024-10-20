@@ -1,0 +1,12 @@
+{
+  "Whitelist": {
+    "Premium": {
+      "HWID": "DiscordID"
+    }
+  },
+  "Discord": {
+    "Premium" : {
+      "DiscordId": "Rank"
+    }
+  }
+}
